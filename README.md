@@ -1,4 +1,5 @@
 # Taski is an Android application used for recording daily tasks.
+Course project for ECE651 - Software Engineering<br />
 Function including:<br />
 1. google login<br />
 2. create/edit/delete todo-list<br />
